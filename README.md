@@ -9,7 +9,7 @@ In windows you need to press `Windows` + `Spacebar` to switch between layouts<br
 Japanese need `Alt` + \` to switch input method to `Hiragana`<br/>
 Korean need `AltGR` to swith input method to `Hangul`.<br/>
 
-This script looks to simplify that using `LeftCtrl` to switch layouts<br/>
+This script looks to simplify that using `RightCtrl` to switch layouts<br/>
 and `AltGR` to switch input methods.<br/>
 
 ### How to use it
@@ -24,14 +24,14 @@ Exe file packed by `AutoHotKey`.
 
 ### Trying it out
 
-Press `LeftCtrl` if you have more than one layout it'll switch to the next one.<br/>
-If you have japanese layout installed press `LeftCtrl` until japanese is selected, `Click` where you want to type, press `AltGR` to cycle between `Hiragana` and `Romaji`.<br/>
-If you have the korean layout installed press `Left Ctrl` until korean is selected, `Click` where you want to type, press `AltGR` to cycle between `Hangul` and `Romaja`<br/>
+Press `RightCtrl` if you have more than one layout it'll switch to the next one.<br/>
+If you have japanese layout installed press `RightCtrl` until japanese is selected, `Click` where you want to type, press `AltGR` to cycle between `Hiragana` and `Romaji`.<br/>
+If you have the korean layout installed press `RightCtrl` until korean is selected, `Click` where you want to type, press `AltGR` to cycle between `Hangul` and `Romaja`<br/>
 
 ### You can make it start with windows
 
 Windows 10/11<br/>
-Press `windows` + `R` and type `shell:startup` it will open a folder, paste a shortcut to `SwitchIM.ahk` or `SwitchIM.exe` Done!
+Press `Windows` + `R` and type `shell:startup` it will open a folder, paste a shortcut to `SwitchIM.ahk` or `SwitchIM.exe` Done!
 
 ### Compatibility
 
